@@ -11,7 +11,7 @@ To install this project on your local machine:
 ## File Structure
 
 ```text
-project_root/
+.
 ├── data/                      # Datasets
 ├── model.py                   # Model definitions
 ├── generate_training_data.py  # Generate/prepare training data
@@ -25,7 +25,7 @@ project_root/
 
 
 ## Environmental Requirements
-```text
+
 - Python 3.8
 - matplotlib==3.7.5
 - numpy==1.24.3
@@ -33,10 +33,10 @@ project_root/
 - torch==2.3.0
 
 Other dependencies can be installed using the following command:
-```
 
 ```bash
 pip install -r requirements.txt
+
 
 ## Contact Information
 
