@@ -1,5 +1,5 @@
 # KCA_DASTGCN
-This repository is the code implementation of the paper "Modeling of Gas Turbines via A Knowledge-Embedded Condition-Aware Dynamic Spatiotemporal Graph Convolutional Network".
+This repository is the code implementation of the paper "xxxxxx".
 
 ## Project Introduction
 
