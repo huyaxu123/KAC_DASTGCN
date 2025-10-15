@@ -8,15 +8,17 @@ To install this project on your local machine:
 
 ## file structure
 
-1. Dataset and code explanation:
-    - This project includes various datasets and scripts to process these datasets.
-    - You can run the processing scripts from the `src/` folder.
+.
+├── data/           # Datasets 
+├── model.py/         
+├── generate_training_data.py/      
+├── train.py/         # run
+├── util.py/        
+├── engine.py/       
+├── requirements.txt
+└── README.md
 
-2. Example usage:
-    - Run the following command to start:
-    ```bash
-    python src/main.py
-    ```
+
 ## Environmental Requirements
 
 - Python 3.8
