@@ -6,8 +6,11 @@ This repository is the code implementation of the paper "An Industrial Energy Pr
 To install this project on your local machine:
 
 
-## file structure
 
+
+## File Structure
+
+```text
 .
 ├── data/                      # Datasets
 ├── model.py                   # Model definitions
@@ -17,6 +20,7 @@ To install this project on your local machine:
 ├── engine.py                  # Training/inference engine
 ├── requirements.txt
 └── README.md
+
 
 
 
