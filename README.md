@@ -1,9 +1,9 @@
 # KCA_DASTGCN
-This repository is the code implementation of the paper "An Industrial Energy Prediction Method Integrating Planning Information and Process Correlation Characteristics".
+This repository is the code implementation of the paper "Modeling of Gas Turbines via A Knowledge-Embedded Condition-Aware Dynamic Spatiotemporal Graph Convolutional Network".
 
 ## Project Introduction
 
-To install this project on your local machine:
+The code in this repository is publicly available. The dataset is currently under an embargo and is not accessible at this time. We will release the dataset and update the links once the embargo period ends.
 
 
 
