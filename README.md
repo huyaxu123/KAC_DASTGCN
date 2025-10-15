@@ -19,12 +19,15 @@ To install this project on your local machine:
     ```
 ## Environmental Requirements
 
-Python 3.8
-matplotlib==3.7.5
-numpy==1.24.3
-pandas==2.0.3
-torch==2.3.0
+- Python 3.8
+- matplotlib==3.7.5
+- numpy==1.24.3
+- pandas==2.0.3
+- torch==2.3.0
+
 Other dependencies can be installed using the following command:
+
+```bash
 pip install -r requirements.txt
 
 ## Contact Information
