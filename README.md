@@ -1,24 +1,12 @@
+# KCA_DASTGCN
+This repository is the code implementation of the paper "An Industrial Energy Prediction Method Integrating Planning Information and Process Correlation Characteristics".
 
-## Installation Guide
+## Project Introduction
 
 To install this project on your local machine:
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/username/repository-name.git
-    ```
 
-2. Navigate to the project directory:
-    ```bash
-    cd repository-name
-    ```
-
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
+## file structure
 
 1. Dataset and code explanation:
     - This project includes various datasets and scripts to process these datasets.
@@ -29,14 +17,17 @@ To install this project on your local machine:
     ```bash
     python src/main.py
     ```
+## Environmental Requirements
+
+Python 3.8
+matplotlib==3.7.5
+numpy==1.24.3
+pandas==2.0.3
+torch==2.3.0
+Other dependencies can be installed using the following command:
+pip install -r requirements.txt
 
 ## Contact Information
 
-If you have any questions about the code or datasets, please don't hesitate to contact us. Thanks!
+If there are any questions about the codes and datasets, please don't hesitate to contact us. Thanks!
 
-- **Email**: example@example.com
-- **GitHub**: [https://github.com/username](https://github.com/username)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
