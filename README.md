@@ -9,14 +9,15 @@ To install this project on your local machine:
 ## file structure
 
 .
-├── data/           # Datasets 
-├── model.py/         
-├── generate_training_data.py/      
-├── train.py/         # run
-├── util.py/        
-├── engine.py/       
+├── data/                      # Datasets
+├── model.py                   # Model definitions
+├── generate_training_data.py  # Generate/prepare training data
+├── train.py                   # Run / training entry point
+├── util.py                    # Utility functions
+├── engine.py                  # Training/inference engine
 ├── requirements.txt
 └── README.md
+
 
 
 ## Environmental Requirements
