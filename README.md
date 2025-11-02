@@ -1,4 +1,4 @@
-# KCA_DASTGCN
+# KCA_DSTGCN
 This repository is the code implementation of the paper "xxxxxx".
 
 ## Project Introduction
