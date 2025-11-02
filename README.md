@@ -11,22 +11,21 @@ The code in this repository is publicly available. The dataset is currently unde
 ## File Structure
 
 ```text
-├── model
-├├── layers.py
-├├── models.py
-├── data/                      # Datasets
-├── script
-├├── dataloader.py
-├├── earlystopping.py
-├├── opt.py
-├├── utility.py
-├── model.py                   # Model definitions
-├── generate_training_data.py  # Generate/prepare training data
-├── train.py                   # Run / training entry point
-├── util.py                    # Utility functions
-├── engine.py                  # Training/inference engine
-├── requirements.txt
-└── README.md
+├── model/                  # Model architecture
+│   ├── layers.py           # Network layers and modules
+│   └── models.py           # Main model definitions (KCA-DSTGCN)
+│
+├── data/                   # Dataset folder or data samples
+│
+├── script/                 # Training and utility scripts
+│   ├── dataloader.py       # Data loading and preprocessing
+│   ├── earlystopping.py    # Early stopping for training
+│   ├── opt.py              # Optimizer
+│   └── utility.py          # Helper functions and evaluation metrics
+│
+├── requirements.txt        # Python dependencies
+└── README.md               # Project description and usage instructions
+
 ```
 
 
