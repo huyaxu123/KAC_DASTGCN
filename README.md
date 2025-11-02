@@ -11,8 +11,15 @@ The code in this repository is publicly available. The dataset is currently unde
 ## File Structure
 
 ```text
-.
+├── model
+├├── layers.py
+├├── models.py
 ├── data/                      # Datasets
+├── script
+├├── dataloader.py
+├├── earlystopping.py
+├├── opt.py
+├├── utility.py
 ├── model.py                   # Model definitions
 ├── generate_training_data.py  # Generate/prepare training data
 ├── train.py                   # Run / training entry point
