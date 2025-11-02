@@ -52,4 +52,5 @@ python train.py
 ## Contact Information
 
 If there are any questions about the codes and datasets, please don't hesitate to contact us. Thanks!
+huyaxu@mail.dlut.edu.cn
 
