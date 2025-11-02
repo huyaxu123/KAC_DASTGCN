@@ -38,7 +38,6 @@ The code in this repository is publicly available. The dataset is currently unde
 - pandas==2.3.3
 - torch==2.8.0
 - scikit-learn==1.7.2
-Other dependencies can be installed using the following command:
 
 ```bash
 pip install -r requirements.txt
