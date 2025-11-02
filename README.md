@@ -32,12 +32,12 @@ The code in this repository is publicly available. The dataset is currently unde
 
 ## Environmental Requirements
 
-- Python 3.8
-- matplotlib==3.7.5
-- numpy==1.24.3
-- pandas==2.0.3
-- torch==2.3.0
-
+-  Python==3.10.0
+- matplotlib==3.10.7
+- numpy==2.1.2
+- pandas==2.3.3
+- torch==2.8.0
+- scikit-learn==1.7.2
 Other dependencies can be installed using the following command:
 
 ```bash
