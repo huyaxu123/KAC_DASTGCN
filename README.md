@@ -54,6 +54,8 @@ If you want to retrain the model from scratch, uncomment the following line in m
 ```bash
 # train(args, model, loss, optimizer, scheduler, es, train_iter, val_iter)
 ```
+## Use Your Own Dataset
+To use your own data, replace the dataset paths in `main_gt.py` and `dataloader.py` with the paths to your dataset.
 
 ## Contact Information
 
