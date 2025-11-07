@@ -44,10 +44,15 @@ The code in this repository is publicly available. The dataset is currently unde
 ```bash
 pip install -r requirements.txt
 ```
-## run steps
+## Run the script for testing only (loads the pre-trained model):
 
 ```bash
-python train.py
+python main_gt.py
+```
+## Retrain the model:
+If you want to retrain the model from scratch, uncomment the following line in main_gt.py:
+```bash
+# train(args, model, loss, optimizer, scheduler, es, train_iter, val_iter)
 ```
 
 ## Contact Information
