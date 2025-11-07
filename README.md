@@ -1,5 +1,5 @@
 # KCA_DSTGCN
-This repository is the code implementation of the paper "xxxxxx".
+This repository is the code implementation of the paper "KCA_DSTGCN".
 
 ## Project Introduction
 
