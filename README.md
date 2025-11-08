@@ -26,7 +26,15 @@ The code in this repository is publicly available.
 └── README.md               # Project description and usage instructions
 
 ```
+## 📊 Metrics
 
+| Target | R² | MAPE |
+| :----: | :----: | :----: |
+| T2 | 0.9885 | 0.1393% |
+| P4 | 0.9805 | 0.2179% |
+| T4 | 0.9877 | 0.4296% |
+| WO | 0.9871 | 0.4655% |
+| **Average** | **0.9860** | **0.3131%** |
 
 
 ## Environmental Requirements
