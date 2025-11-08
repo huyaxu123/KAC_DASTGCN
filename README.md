@@ -3,8 +3,7 @@ This repository is the code implementation of the paper "KCA_DSTGCN".
 
 ## Project Introduction
 
-The code in this repository is publicly available. The dataset is currently under an embargo and is not accessible at this time. We will release the dataset and update the links once the embargo period ends.
-
+The code in this repository is publicly available. 
 
 
 
